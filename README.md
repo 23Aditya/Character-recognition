@@ -1,2 +1,2 @@
 # Character-recognition
-text-recognition-ocr-python
+### textrecognition with easyocr
